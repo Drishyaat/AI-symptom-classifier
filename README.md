@@ -46,13 +46,7 @@ This tool aims to improve hospital triage, increase workflow efficiency, and enh
 
 ## Project Structure
 
-.
-├── app.py # Main Streamlit app
-├── classifier.py # Symptom processing logic
-├── favicon.png # Custom site favicon
-├── requirements.txt # Python dependencies
-├── README.md # Project overview and instructions
-└── .gitignore # Git ignore rules
+<pre> ## Project Structure ``` . ├── app.py # Main Streamlit app ├── classifier.py # Symptom processing logic ├── favicon.png # Custom site favicon ├── requirements.txt # Python dependencies ├── README.md # Project overview and instructions └── .gitignore # Git ignore rules ``` </pre>
 
 
 ---
@@ -63,10 +57,6 @@ All dependencies are listed in `requirements.txt`.
 
 ---
 
-## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
 
 *Created by Drishyaa*
