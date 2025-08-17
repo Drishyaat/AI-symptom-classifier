@@ -44,7 +44,7 @@ This tool aims to improve hospital triage, increase workflow efficiency, and enh
 
 ---
 
-## Project Structure
+
 
 <pre> ## Project Structure ``` . ├── app.py # Main Streamlit app ├── classifier.py # Symptom processing logic ├── favicon.png # Custom site favicon ├── requirements.txt # Python dependencies ├── README.md # Project overview and instructions └── .gitignore # Git ignore rules ``` </pre>
 
